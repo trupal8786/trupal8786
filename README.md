@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:7b2cbf&height=220&section=header&text=Trupal%20Shende&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
-<a href="https://github.com/trupal8786">
+<a href="https://github.com/Trupal-Shende">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Systems;Engineering+Intelligent+AI%2FML+Solutions;Full-Stack+%26+Product+Engineering;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
@@ -23,16 +23,16 @@
 <a href="mailto:gwtrupal@gmail.com">
   <img src="https://img.shields.io/badge/Email-533483?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/trupal8786">
+<a href="https://github.com/Trupal-Shende">
   <img src="https://img.shields.io/badge/GitHub-3c096c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=trupal8786&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/trupal8786?label=Followers&style=flat-square&color=5a189a&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/trupal8786?label=Stars&style=flat-square&color=533483&logo=github" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Trupal-Shende&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Trupal-Shende?label=Followers&style=flat-square&color=5a189a&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Trupal-Shende?label=Stars&style=flat-square&color=533483&logo=github" alt="Stars" />
 
 </div>
 
@@ -106,7 +106,7 @@ An application designed to track medicine expiration dates and reduce pharmaceut
 | **Stack** | Python · AI Integration |
 | **Scale** | Developed as a high-impact prototype for The Sandbox IT Fest |
 | **Impact** | Automates expiry tracking to reduce medical waste |
-| **Repository** | [View on GitHub →](https://github.com/trupal8786/medexpiry) |
+| **Repository** | [View on GitHub →](https://github.com/Trupal-Shende/medexpiry) |
 
 Designed the technical execution plan and core logic to ensure rapid deployment and functional viability within a constrained timeline.
 
@@ -126,7 +126,7 @@ A horizontally scalable platform for serving machine learning models in producti
 | **Performance** | p99 latency under 80ms with dynamic batching |
 | **Security** | JWT auth, rate limiting, encrypted model artifacts |
 | **Impact** | Reduced inference cost by 42% and deployment time by 70% |
-| **Repository** | [View on GitHub →](https://github.com/trupal8786/ai-inference-platform) |
+| **Repository** | [View on GitHub →](https://github.com/Trupal-Shende/ai-inference-platform) |
 
 Engineered an end-to-end inference service with request batching, GPU pooling, and automatic horizontal scaling.
 
@@ -163,8 +163,8 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-alpha.vercel.app/api?username=trupal8786&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trupal8786&theme=react&hide_border=true&background=0D1117&ring=9d4edd&fire=7b2cbf&currStreakLabel=9d4edd)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-alpha.vercel.app/api?username=Trupal-Shende&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trupal-Shende&theme=react&hide_border=true&background=0D1117&ring=9d4edd&fire=7b2cbf&currStreakLabel=9d4edd)](https://git.io/streak-stats)
 
 </div>
 ---
@@ -177,7 +177,7 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 
 <div align="center">
 
-<img src="https://github-profile-trophies.vercel.app/?username=trupal8786&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophies.vercel.app/?username=Trupal-Shende&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -191,7 +191,7 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trupal8786&theme=react-dark&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Trupal-Shende&theme=react-dark&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -205,7 +205,7 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trupal8786/trupal8786/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Trupal-Shende/Trupal-Shende/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -225,7 +225,7 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 <a href="https://linkedin.com/in/trupal-shende-a37270350">
   <img src="https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/trupal8786">
+<a href="https://github.com/Trupal-Shende">
   <img src="https://img.shields.io/badge/GitHub-3c096c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
