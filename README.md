@@ -177,7 +177,7 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=trupal8786&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophies.vercel.app/?username=trupal8786&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
