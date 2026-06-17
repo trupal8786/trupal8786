@@ -159,7 +159,7 @@ Engineered an end-to-end inference service with request batching, GPU pooling, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trupal8786&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trupal8786&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&include_all_commits=true<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trupal8786&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" />" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=trupal8786&theme=react&hide_border=true&background=0D1117&ring=9d4edd&fire=7b2cbf&currStreakLabel=9d4edd" alt="GitHub Streak" />
 
 <br/>
